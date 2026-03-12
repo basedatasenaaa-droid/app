@@ -6,3 +6,7 @@ qrcode[pil]
 pillow
 python-multipart
 cryptography
+flet==0.25.0  
+requests
+opencv-python-headless  
+pymysql  
