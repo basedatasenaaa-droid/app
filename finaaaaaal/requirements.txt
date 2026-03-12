@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymysql
+python-dotenv
+qrcode[pil]
+pillow
+python-multipart
+cryptography
